@@ -1,0 +1,20 @@
+# gitignore
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+x64/
+x86/
+**/*.vcxproj.user
+
+# Build output
+**.obj
+**.exe
+**.ilk
+**.pdb
+
+# vim
+*.vim
+**/tags
